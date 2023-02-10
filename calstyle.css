@@ -1,0 +1,40 @@
+body{
+    padding-top: 50px;
+    background-color: rgb(58, 58, 94);
+}
+div{
+    
+    text-align: center;
+    padding-left: 30rem;
+}
+.calculator{
+    border: 8px solid white;
+    background-color: white;
+    border-radius: 5px;
+    
+    
+}
+.display-box{
+    width: 24rem;
+    padding: 7px;
+    
+}
+#btn{
+    width: 8rem;
+    padding: 7px;
+    
+}
+#btn-c{
+    width: 8rem;
+    padding: 7px;
+    background-color: pink;
+}
+#btn-0{
+    width: 16rem;
+    padding: 7px;
+}
+#btn-eql{
+    width: 24rem;
+    padding: 7px;
+    background-color: orangered;
+}
