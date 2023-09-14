@@ -8,6 +8,6 @@
 	<title>Simple Calculator</title>
 </head>
 <body>
-	<h1>This is a simple calculator using HTML, CSS, Js.</h1>
+	<h1>This is a simple calculator using HTML, CSS, Js.<br>https://calculate-with-calculator.netlify.app/</h1>
 </body>
 </html>
